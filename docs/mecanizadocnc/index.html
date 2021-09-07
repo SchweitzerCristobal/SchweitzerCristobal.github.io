@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>2-Mecanizado CNC - Cristobal Schweitzer - Taller Fabricación 2021</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="https://schweitzercristobal.github.io/favicon.png">
+
+  
+  
+  <link rel="stylesheet" href="/css/style.min.a32658f2eedb9bb852f8513925cb445e40633983f1ff54349b037dd04eafa2fa.css">
+  
+
+  
+
+</head>
+
+<body class='page page-default-single'>
+  <div id="main-menu-mobile" class="main-menu-mobile">
+  <ul>
+    
+    
+    <li class="menu-item-inicio">
+      <a href="/">
+        <span>Inicio</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-dococumentación">
+      <a href="/docs/">
+        <span>Dococumentación</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+  <div class="wrapper">
+    <div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="https://schweitzercristobal.github.io/"><img alt="Logo" src="/images/logo-uai.png" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="https://schweitzercristobal.github.io/"><img alt="Logo" src="/images/logo-uai.png" /></a>
+    </div>
+    <div id="main-menu" class="main-menu">
+  <ul>
+    
+    
+    <li class="menu-item-inicio">
+      <a href="/">
+        <span>Inicio</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-dococumentación">
+      <a href="/docs/">
+        <span>Dococumentación</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+    <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+  </div>
+</div>
+
+
+    
+    
+    
+    
+    
+    
+
+    
+    <div class="container pt-2 pt-md-6 pb-3 pb-md-6">
+      <div class="row">
+        <div class="col-12 col-md-3 mb-3">
+          <div class="sidebar">
+            
+<div class="docs-menu">
+  <h4>Docs</h4>
+  <ul>
+    
+    <li class="">
+      <a href="https://schweitzercristobal.github.io/docs/ejemplo/">Ejemplo Shortcodes</a>
+    </li>
+    
+    <li class="">
+      <a href="https://schweitzercristobal.github.io/docs/designshareremix/">0-Design Remix Share Repeat</a>
+    </li>
+    
+    <li class="">
+      <a href="https://schweitzercristobal.github.io/docs/planimetria/">1-Planimetria</a>
+    </li>
+    
+    <li class="active ">
+      <a href="https://schweitzercristobal.github.io/docs/mecanizadocnc/">2-Mecanizado CNC</a>
+    </li>
+    
+    <li class="">
+      <a href="https://schweitzercristobal.github.io/docs/mecanizadocnc-2/">3-Mecanizado CNC 2.5</a>
+    </li>
+    
+    <li class="">
+      <a href="https://schweitzercristobal.github.io/docs/markdown/">Ejemplos Markdown</a>
+    </li>
+    
+  </ul>
+</div>
+
+          </div>
+        </div>
+        <div class="col-12 col-md-9">
+          
+<h1 class="title">2-Mecanizado CNC</h1>
+<div class="content ">
+  <!-- raw HTML omitted -->
+<h1 id="introduccion-a-cnc">Introduccion a CNC</h1>
+<p>El proceso de CNC o Computer Numerical Control es el idioma de control para que una maquina pueda ser guiada por valores numéricos dados desde un modelo 3D de la computadora. Con esta tecnología se permite ser muy preciso a la hora de diseñar y fabricar con distintas maquinas según el material y la forma en la que estamos trabajando, las maquinas mas comunes son las impresoras 3D, las fresadoras, Enrutadores y cortadoras de plasma</p>
+<h1 id="fresadora">Fresadora</h1>
+<p>Para este primer trabajo de CNC trabajaremos con la fresadora, la fresadora se encarga en cortar materiales con un buen acabado para poder dar forma a piezas. A esto se le llama fabricación sustractiva ya que estaremos cortando lo que no queremos para quedar en base a una plancha y restándole material quedar con el producto final.</p>
+<p><img src="/img/Fresadorappt.jpg" alt="Imagen fresadora"></p>
+<p>Además de una gran precisión para el movimiento, la fresadora cuenta con múltiples cabezales para poder tener el corte y la exactitud que uno necesité, así permitiendo esta fabricación se mucho mas adaptable aun a las necesidades del usuario.</p>
+<p><img src="/img/Picture1.png" alt="Imagen fresadora"></p>
+<p><a href="#top">[Volver Arriba]</a></p>
+<hr>
+<h1 id="procedimiento-silla-fresia">Procedimiento Silla Fresia</h1>
+<p>LAS INSTRUCCIONES DEL RESPALDO ESTAN EN EL SIGUIENTE POST(3-Mecanizado CNC 2.5)</p>
+<ol>
+<li>Para este proceso partimos por tener nuestro modelo completo en fusión y luego separar sus piezas.
+(fusión)</li>
+<li>Una vez tengamos el modelo debemos crear una plancha que simule la plancha que estaremos cortando con la fresadora, en nuestro caso media tabla de terciado por lo que tendrá 15mm de grosor y 1220mm x 1220 mm. Una vez lista la plancha copiaremos las piezas de la silla para alinearlas con el plano de la plancha (Modify-&gt;Align), debemos dejar las piezas introducidas en la plancha como queremos que las deje la fresadora en relación a la plancha, en este caso es importante alinear que los sacados estén por el lado superior para que puedan ser cortados por la fresadora.</li>
+<li>Luego vamos a diseño y apretamos manufactura para tener acceso a las diferentes herramientas de Fusion 360. Comenzamos por abrir la carpeta de setup para escoger la maquina Autodesk, Generic 3-axis</li>
+<li>Ahora debemos seleccionar las piezas a cortar, una recomendación seria apagar la plancha para seleccionar las piezas.</li>
+<li>Debemos definir el solido (el objeto que va a ser cortado) ahora, para eso desde la pestaña “Stock” y definimos la plancha como “Stock Solid” para esto debemos cambiar el “mode” con la opción “from solid” y elegir la plancha como el solido</li>
+<li>Definir origen de la tabla, para que la maquina entienda desde que punto está partiendo.</li>
+<li>Ahora debemos utilizar la herramienta 2d Contour partiremos por elegir los agujeros para ensamblar en las patas por el borde inferior y automáticamente pedirá elegir una fresa, elegiremos el flat end mil de 6mm.</li>
+<li>Haremos clics derecho en la capa 2d Countour e iremos a Edit,Passes,Multiple Depths y cambiaremos la primera opción de 1mm a 3mm y también iremos a Tabs y cambiaremos “Tab height” a 3mm y “Tab distance” a 350mm, con esto evitamos que la sustracción se haga en una sola pasada ya que termina un peor acabado y mas daño a la fresa.</li>
+<li>El 2d Countour se deberá repetir para todas las piezas de la silla, que fueron posicionados correctamente en la plancha en el paso (2.)</li>
+<li>Lo siguiente será apretar el botón de 2D Trace, con lo cual haremos un rebaje en la madera seleccionando las líneas del sketch que ya están ilustradas bajo la madera, seleccionaremos todas las líneas y iremos a Passes, Stock to leave y pondremos 4.5mm que corresponde a la mitad de la plancha con tal de otorgarle un nivel de flexibilidad a la madera.</li>
+<li>Por ultimo y para revisar en la carpeta setup haremos clic derecho y daremos en “Simulation” para así simular el proceso</li>
+</ol>
+
+</div>
+</div>
+
+        </div>
+      </div>
+    </div>
+    
+  </div>
+
+  
+
+  
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/scripts.min.eaf147370baecdd07c022597db631f99cab1c9cd6479de586f30327a568d6a0f.js"></script>
+  
+
+  
+  
+  
+    
+  
+
+
+</body>
+
+</html>

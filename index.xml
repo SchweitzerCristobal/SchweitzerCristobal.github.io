@@ -17,20 +17,47 @@
     </item>
     
     <item>
+      <title>0-Design Remix Share Repeat</title>
+      <link>https://schweitzercristobal.github.io/docs/designshareremix/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://schweitzercristobal.github.io/docs/designshareremix/</guid>
+      <description>Resumen primera lectura del curso.</description>
+    </item>
+    
+    <item>
+      <title>1-Planimetria</title>
+      <link>https://schweitzercristobal.github.io/docs/planimetria/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://schweitzercristobal.github.io/docs/planimetria/</guid>
+      <description>Trabajo de analisis Silla Eames</description>
+    </item>
+    
+    <item>
+      <title>2-Mecanizado CNC</title>
+      <link>https://schweitzercristobal.github.io/docs/mecanizadocnc/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://schweitzercristobal.github.io/docs/mecanizadocnc/</guid>
+      <description>Primer post sobre maquinaria CNC</description>
+    </item>
+    
+    <item>
+      <title>3-Mecanizado CNC 2.5</title>
+      <link>https://schweitzercristobal.github.io/docs/mecanizadocnc-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://schweitzercristobal.github.io/docs/mecanizadocnc-2/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
       <title>Ejemplos Markdown</title>
       <link>https://schweitzercristobal.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://schweitzercristobal.github.io/docs/markdown/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Post 1</title>
-      <link>https://schweitzercristobal.github.io/docs/post1/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://schweitzercristobal.github.io/docs/post1/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
