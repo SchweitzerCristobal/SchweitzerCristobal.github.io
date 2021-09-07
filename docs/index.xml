@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taller de Fabricación 2021 on Cristobal Schweitzer - Taller Fabricación 2021</title>
-    <link>https://schweitzercristobal.github.io/docs/</link>
+    <link>https://SchweitzerCristobal.github.io/docs/</link>
     <description>Recent content in Taller de Fabricación 2021 on Cristobal Schweitzer - Taller Fabricación 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://schweitzercristobal.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://SchweitzerCristobal.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ejemplo Shortcodes</title>
-      <link>https://schweitzercristobal.github.io/docs/ejemplo/</link>
+      <link>https://SchweitzerCristobal.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://schweitzercristobal.github.io/docs/ejemplo/</guid>
+      <guid>https://SchweitzerCristobal.github.io/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
       <title>0-Design Remix Share Repeat</title>
-      <link>https://schweitzercristobal.github.io/docs/designshareremix/</link>
+      <link>https://SchweitzerCristobal.github.io/docs/designshareremix/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://schweitzercristobal.github.io/docs/designshareremix/</guid>
+      <guid>https://SchweitzerCristobal.github.io/docs/designshareremix/</guid>
       <description>Resumen primera lectura del curso.</description>
     </item>
     
     <item>
       <title>1-Planimetria</title>
-      <link>https://schweitzercristobal.github.io/docs/planimetria/</link>
+      <link>https://SchweitzerCristobal.github.io/docs/planimetria/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://schweitzercristobal.github.io/docs/planimetria/</guid>
+      <guid>https://SchweitzerCristobal.github.io/docs/planimetria/</guid>
       <description>Trabajo de analisis Silla Eames</description>
     </item>
     
     <item>
       <title>2-Mecanizado CNC</title>
-      <link>https://schweitzercristobal.github.io/docs/mecanizadocnc/</link>
+      <link>https://SchweitzerCristobal.github.io/docs/mecanizadocnc/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://schweitzercristobal.github.io/docs/mecanizadocnc/</guid>
+      <guid>https://SchweitzerCristobal.github.io/docs/mecanizadocnc/</guid>
       <description>Primer post sobre maquinaria CNC</description>
     </item>
     
     <item>
       <title>3-Mecanizado CNC 2.5</title>
-      <link>https://schweitzercristobal.github.io/docs/mecanizadocnc-2/</link>
+      <link>https://SchweitzerCristobal.github.io/docs/mecanizadocnc-2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://schweitzercristobal.github.io/docs/mecanizadocnc-2/</guid>
+      <guid>https://SchweitzerCristobal.github.io/docs/mecanizadocnc-2/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>https://schweitzercristobal.github.io/docs/markdown/</link>
+      <link>https://SchweitzerCristobal.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://schweitzercristobal.github.io/docs/markdown/</guid>
+      <guid>https://SchweitzerCristobal.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
