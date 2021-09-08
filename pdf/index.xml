@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cristobal Schweitzer on Cristobal Schweitzer - Taller Fabricación 2021</title>
+    <link>https://SchweitzerCristobal.github.io/</link>
+    <description>Recent content in Cristobal Schweitzer on Cristobal Schweitzer - Taller Fabricación 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://SchweitzerCristobal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design Remix Share Repeat</title>
+      <link>https://SchweitzerCristobal.github.io/docs/designshareremix/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://SchweitzerCristobal.github.io/docs/designshareremix/</guid>
+      <description>Resumen primera lectura del curso.</description>
+    </item>
+    
+    <item>
+      <title>Planimetria</title>
+      <link>https://SchweitzerCristobal.github.io/docs/planimetria/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://SchweitzerCristobal.github.io/docs/planimetria/</guid>
+      <description>Trabajo de analisis Silla Eames</description>
+    </item>
+    
+    <item>
+      <title>Mecanizado CNC</title>
+      <link>https://SchweitzerCristobal.github.io/docs/mecanizadocnc/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://SchweitzerCristobal.github.io/docs/mecanizadocnc/</guid>
+      <description>Primer post sobre maquinaria CNC</description>
+    </item>
+    
+    <item>
+      <title>Mecanizado CNC 2.5</title>
+      <link>https://SchweitzerCristobal.github.io/docs/mecanizadocnc-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://SchweitzerCristobal.github.io/docs/mecanizadocnc-2/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Simulacion y Diseño Generativo</title>
+      <link>https://SchweitzerCristobal.github.io/docs/simulacion/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://SchweitzerCristobal.github.io/docs/simulacion/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Impresion 3D</title>
+      <link>https://SchweitzerCristobal.github.io/docs/impresioncura/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://SchweitzerCristobal.github.io/docs/impresioncura/</guid>
+      <description>Aqui entraremos en detalles sobre la impresion 3D y como configurar para imprimir 3d.</description>
+    </item>
+    
+    <item>
+      <title>Molde-Complementarios</title>
+      <link>https://SchweitzerCristobal.github.io/docs/comlpementarios2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://SchweitzerCristobal.github.io/docs/comlpementarios2/</guid>
+      <description>Tutorial creacion de molde por vaciado.</description>
+    </item>
+    
+    <item>
+      <title>Complementario</title>
+      <link>https://SchweitzerCristobal.github.io/docs/complementarios/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://SchweitzerCristobal.github.io/docs/complementarios/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Examen Post-1</title>
+      <link>https://SchweitzerCristobal.github.io/docs/examenpost1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://SchweitzerCristobal.github.io/docs/examenpost1/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Examen Post-2</title>
+      <link>https://SchweitzerCristobal.github.io/docs/examen-post2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://SchweitzerCristobal.github.io/docs/examen-post2/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Examen Final</title>
+      <link>https://SchweitzerCristobal.github.io/docs/examen-final/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://SchweitzerCristobal.github.io/docs/examen-final/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+  </channel>
+</rss>

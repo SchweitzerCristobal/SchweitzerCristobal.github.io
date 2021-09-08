@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Mecanizado CNC 2.5 - Cristobal Schweitzer - Taller Fabricación 2021</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="https://SchweitzerCristobal.github.io/favicon.png">
+
+  
+  
+  <link rel="stylesheet" href="/css/style.min.a32658f2eedb9bb852f8513925cb445e40633983f1ff54349b037dd04eafa2fa.css">
+  
+
+  
+
+</head>
+
+<body class='page page-default-single'>
+  <div id="main-menu-mobile" class="main-menu-mobile">
+  <ul>
+    
+    
+    <li class="menu-item-inicio">
+      <a href="/">
+        <span>Inicio</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-dococumentación">
+      <a href="/docs/">
+        <span>Dococumentación</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+  <div class="wrapper">
+    <div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="https://SchweitzerCristobal.github.io/"><img alt="Logo" src="/images/logo-uai.png" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="https://SchweitzerCristobal.github.io/"><img alt="Logo" src="/images/logo-uai.png" /></a>
+    </div>
+    <div id="main-menu" class="main-menu">
+  <ul>
+    
+    
+    <li class="menu-item-inicio">
+      <a href="/">
+        <span>Inicio</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-dococumentación">
+      <a href="/docs/">
+        <span>Dococumentación</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+    <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+  </div>
+</div>
+
+
+    
+    
+    
+    
+    
+    
+
+    
+    <div class="container pt-2 pt-md-6 pb-3 pb-md-6">
+      <div class="row">
+        <div class="col-12 col-md-3 mb-3">
+          <div class="sidebar">
+            
+<div class="docs-menu">
+  <h4>Docs</h4>
+  <ul>
+    
+    <li class="">
+      <a href="https://SchweitzerCristobal.github.io/docs/designshareremix/">Design Remix Share Repeat</a>
+    </li>
+    
+    <li class="">
+      <a href="https://SchweitzerCristobal.github.io/docs/planimetria/">Planimetria</a>
+    </li>
+    
+    <li class="">
+      <a href="https://SchweitzerCristobal.github.io/docs/mecanizadocnc/">Mecanizado CNC</a>
+    </li>
+    
+    <li class="active ">
+      <a href="https://SchweitzerCristobal.github.io/docs/mecanizadocnc-2/">Mecanizado CNC 2.5</a>
+    </li>
+    
+    <li class="">
+      <a href="https://SchweitzerCristobal.github.io/docs/simulacion/">Simulacion y Diseño Generativo</a>
+    </li>
+    
+    <li class="">
+      <a href="https://SchweitzerCristobal.github.io/docs/impresioncura/">Impresion 3D</a>
+    </li>
+    
+    <li class="">
+      <a href="https://SchweitzerCristobal.github.io/docs/comlpementarios2/">Molde-Complementarios</a>
+    </li>
+    
+    <li class="">
+      <a href="https://SchweitzerCristobal.github.io/docs/complementarios/">Complementario</a>
+    </li>
+    
+    <li class="">
+      <a href="https://SchweitzerCristobal.github.io/docs/examenpost1/">Examen Post-1</a>
+    </li>
+    
+    <li class="">
+      <a href="https://SchweitzerCristobal.github.io/docs/examen-post2/">Examen Post-2</a>
+    </li>
+    
+    <li class="">
+      <a href="https://SchweitzerCristobal.github.io/docs/examen-final/">Examen Final</a>
+    </li>
+    
+  </ul>
+</div>
+
+          </div>
+        </div>
+        <div class="col-12 col-md-9">
+          
+<h1 class="title">Mecanizado CNC 2.5</h1>
+<div class="content ">
+  <!-- raw HTML omitted -->
+<hr>
+<h1 id="mecanizado-cnc-25">Mecanizado CNC 2.5</h1>
+<p>En este post enseñaremos a hacer el respaldo de la silla fresia empezada en el post anterior.</p>
+<p>Para partir debemos separar el respaldo del resto de la silla para trabajarlo solo, para esto debemos seleccionar el respaldo y a la izquierda hacer clic derecho en bodies-&gt;Respaldo y elegir la opción “Create new component from bodies”. Una vez tengamos este nuevo componente este aparecerá abajo a la izquierda como un nuevo componente y le haremos click derecho y lo exportaremos al computador como archi fusión.</p>
+<p><img src="/img/respaldo1.png" alt="Respaldo"></p>
+<h1 id="pasos">Pasos</h1>
+<ol>
+<li>Crear un nuevo solido que sea un cubo que pueda cubrir por completo el respaldo.</li>
+<li>Dibujaremos con la opción Project (P) un rectángulo de las dimensiones del respaldo</li>
+<li>Seleccionaremos la opción “adaptive clearing” y elegir nuestra fresa de 6mm</li>
+<li>Debemos volver a cambiar de 1mm a 3mm en “Passes” y seleccionar el cuadrado proyectado como “matchmaking boundarie”</li>
+<li>Luego del adaptive clearing que es un paso de sacado de material, procedemos con la opción parallel para hacer un acabado mejor</li>
+<li>Se deben tener las mismas configuraciones que para el paso de “Adaptive Clearing”</li>
+<li>Luego podemos simular ambos pasos juntos para poder ver que funcione correctamente.</li>
+</ol>
+<p><a href="#top">[Volver Arriba]</a></p>
+<hr>
+
+</div>
+</div>
+
+        </div>
+      </div>
+    </div>
+    
+  </div>
+
+  
+
+  
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/scripts.min.eaf147370baecdd07c022597db631f99cab1c9cd6479de586f30327a568d6a0f.js"></script>
+  
+
+  
+  
+  
+    
+  
+
+
+</body>
+
+</html>
